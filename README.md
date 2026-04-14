@@ -142,7 +142,7 @@ This project is in the **spec + design** phase. We're looking for contributors i
 - 📱 **Mobile integration** — QR scanning on MCP client apps
 - 🌐 **Multi-platform** — adapting beyond OpenClaw to Claude, ChatGPT, etc.
 
-👉 See [CONTRIBUTING.md](http://CONTRIBUTING.md) and our [open issues](../../issues) for details.
+👉 See [CONTRIBUTING.md](http://CONTRIBUTING.md) for details.
 
 ---
 
