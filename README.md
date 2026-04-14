@@ -158,6 +158,8 @@ This project is in the **spec + design** phase. We're looking for contributors i
 
 Inspired by WeChat Mini Programs and the MCP ecosystem. Built on the shoulders of [OpenClaw](https://openclaw.dev), [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan), and the [Model Context Protocol](https://modelcontextprotocol.io) specification.
 
+Special thanks to [JinGuYuan/jinguyuan-dumpling-skill](https://github.com/JinGuYuan/jinguyuan-dumpling-skill) — the dumpling shop AI Skill project near BUPT. The idea of bringing AI Skills into everyday life scenarios was a major inspiration for this project.
+
 ---
 
 ## License
